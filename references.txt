@@ -1,0 +1,13 @@
+https://medium.com/@whyamit404/how-to-implement-a-yolo-object-detector-from-scratch-in-pytorch-e310829d92e6
+https://www.kaggle.com/code/vikramsandu/yolov7-from-scratch-in-pytorch
+https://github.com/open-mmlab/mmyolo/tree/main/configs/yolov7
+YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+YOLOP: You Only Look Once for Panoptic Driving Perception
+YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception
+https://docs.ultralytics.com/reference/nn/modules/block/
+Tsung-Yi Lin, Piotr Doll´ ar, Ross Girshick, Kaiming He, Bharath Hariharan, and Serge Belongie. Feature pyramid networks for object detection.
+Shu Liu, Lu Qi, Haifang Qin, Jianping Shi, and Jiaya Jia, Path aggregation network for instance segmentation.
+https://medium.com/@nimritakoul01/image-augmentations-with-albumentations-python-library-part1-823f99a3943a
+https://towardsdatascience.com/training-yolo-select-anchor-boxes-like-this-3226cb8d7f0b/
+https://flax.readthedocs.io/en/latest/nnx_basics.html
+https://github.com/artyom-beilis/pytorch_dlprim
